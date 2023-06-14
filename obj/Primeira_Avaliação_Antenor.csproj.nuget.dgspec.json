@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj": {}
+    "C:\\Users\\user\\Documents\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj": {
+    "C:\\Users\\user\\Documents\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj",
         "projectName": "Primeira_Avaliação_Antenor",
-        "projectPath": "C:\\Users\\user\\Desktop\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\Primeira Avaliação Antenor\\Primeira_Avaliação_Antenor.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Primeira Avaliação Antenor\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Primeira Avaliação Antenor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

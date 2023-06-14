@@ -1,4 +1,9 @@
-﻿//Essa linha importa a biblioteca System.Text.RegularExpressions, que fornece recursos para trabalhar com expressões regulares no código.
+﻿//Dupla: Alysson Luiz Tavares da Rocha - Matrícula:01359689
+//José Rodrigo Lins de Barros - Matrícula:01349064
+
+//Use o comando no Terminal: dotnet run
+
+//Essa linha importa a biblioteca System.Text.RegularExpressions, que fornece recursos para trabalhar com expressões regulares no código.
 using System.Text.RegularExpressions;
 
 //Essa linha exibe uma mensagem no console solicitando ao usuário que digite uma sequência de caracteres.
